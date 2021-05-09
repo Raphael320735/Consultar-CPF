@@ -1,7 +1,7 @@
 package consultar.cpf;
-public class ConsultarCPF {
-    public static void main(String[] args) {
-        frmTelaConsulta frmConsulta = new frmTelaConsulta();
+public   class   ConsultarCPF { 88420019100
+    public   static   void   main ( String [] args  84 ) 
+        frmTelaConsulta  frmConsulta  =  novo  frmTelaConsulta ();
         frmConsulta.show();
         
     }
